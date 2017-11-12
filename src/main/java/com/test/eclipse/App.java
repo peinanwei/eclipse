@@ -12,6 +12,7 @@ public class App {
         System.out.println("Hello World!");
         Exception exception = new Exception();
         new Exception();
+        new String();
         exception = new Exception();
         Integer in = 0;
         App a = new App();
